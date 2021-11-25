@@ -6,5 +6,5 @@ If you find the project helpful, please consider leaving a star on our [main rep
 
 Links:
 - Main Repository: https://github.com/Botspot/pi-apps
-- Website: https://pi-apps-coders.github.io/website
-- Files: https://github.com/Pi-Apps-Coders/files
+- Website: https://pi-apps.io
+- File Storage: https://github.com/Pi-Apps-Coders/files
