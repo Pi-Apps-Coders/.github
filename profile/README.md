@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/Botspot/pi-apps/blob/master/icons/logo-simple.png?raw=true" align="right" height="270px"/>
+<img src="https://github.com/Botspot/pi-apps/blob/master/icons/logo.png?raw=true" align="right" height="270px"/>
 
 Pi-Apps is an open-source app store for Raspberry Pi computers. It's written in 100% open-source bash scripts (including the GUI).
 
