@@ -10,3 +10,5 @@ Links:
 - Main Repository: https://github.com/Botspot/pi-apps
 - Website, Documentation, and Wiki: https://pi-apps.io
 - File Storage: https://github.com/Pi-Apps-Coders/files
+
+Pi-Apps-Coders is a team of core contributors with write permissions to our supporting repos. (not the main one)
